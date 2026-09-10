@@ -3,3 +3,4 @@
 项目包含实体化、影视动画、游戏三个分支，目前能公开的只有实体化中的部分3D打印文件。
 我在中国大陆，接收信息不太方便。可以通过bilibili或者steam联系我。
 在bilibili也叫修复本能reinstinct，在steam叫eternity，可以在铁锈战争的社区中心里找到我。
+实体化materialization分支里有免费分享的3D打印文件。
